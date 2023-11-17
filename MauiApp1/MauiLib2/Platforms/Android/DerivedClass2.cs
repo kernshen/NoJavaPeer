@@ -2,9 +2,9 @@
 
 namespace MauiLib2
 {
-    public class DerivedClass : BaseClass
+    public class DerivedClass2 : BaseClass
     {
-        public DerivedClass()
+        public DerivedClass2()
         {
         }
     }

@@ -15,7 +15,8 @@ namespace MauiApp1
 
 #if ANDROID
             var baseClass = new BaseClass();
-            var derivedClass = new DerivedClass();
+            var derivedClass1 = new DerivedClass1();
+            var derivedClass2 = new DerivedClass2();
 #endif
         }
     }
