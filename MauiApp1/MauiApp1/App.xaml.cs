@@ -17,6 +17,7 @@ namespace MauiApp1
             var baseClass = new BaseClass();
             var derivedClass1 = new DerivedClass1();
             var derivedClass2 = new DerivedClass2();
+            var derivedClass3 = new DerivedClass3();
 #endif
         }
     }
